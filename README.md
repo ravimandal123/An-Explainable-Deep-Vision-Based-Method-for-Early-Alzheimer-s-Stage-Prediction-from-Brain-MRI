@@ -1,0 +1,2 @@
+# An-Explainable-Deep-Vision-Based-Method-for-Early-Alzheimer-s-Stage-Prediction-from-Brain-MRI
+An explainable deep learning-based method for early detection of Alzheimer's disease using brain MRI images.  This project focuses on classifying different stages of Alzheimer’s through convolutional neural networks (CNN)  and interpretable AI techniques such as Grad-CAM to highlight key brain regions contributing to predictions.
